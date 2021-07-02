@@ -56,8 +56,8 @@ function Nav(props) {
     return (
 
         <Container>
-            <h1 className="text-center">HELLO</h1>
-            <Button><h1 className="text-center">HELLO</h1></Button>
+            <h1>HELLO</h1>
+            <Button><h1>HELLO</h1></Button>
         </Container>
 
 
