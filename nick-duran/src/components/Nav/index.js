@@ -1,4 +1,5 @@
 import React, { useEffect } from 'react';
+import { Container, Button } from 'react-bootstrap';
 import { capitalizeFirstLetter } from '../../utils/helpers.js';
 
 
@@ -53,7 +54,13 @@ function Nav(props) {
 
 
     return (
-        <p>HELLO</p>
+
+        <Container>
+            <h1 className="text-center">HELLO</h1>
+            <Button><h1 className="text-center">HELLO</h1></Button>
+        </Container>
+
+
     );
 }
 
