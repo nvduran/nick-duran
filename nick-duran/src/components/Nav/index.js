@@ -1,67 +1,21 @@
 import React, { useEffect } from 'react';
-import { Container, Button } from 'react-bootstrap';
+import { Container, Button, Navbar, Nav } from 'react-bootstrap';
 import { capitalizeFirstLetter } from '../../utils/helpers.js';
 
 
-function Nav(props) {
-
-    // const {
-    //     categories = [],
-    //     setCurrentCategory,
-    //     currentCategory,
-    // } = props;
-
-    // useEffect(() => {
-    //     document.title = capitalizeFirstLetter(currentCategory.name);
-    // }, [currentCategory]);
-
-    // return (
-    //     <header className="flex-row px-1">
-    //         <h2>
-    //             <a data-testid="link" href="/">
-    //                 {/* <span role="img" aria-label="camera"> 📸</span> Oh Snap! */}
-    //             </a>
-    //         </h2>
-    //         <nav>
-    //             <ul className="flex-row">
-    //                 <li className="mx-2">
-    //                     <a data-testid="about" href="#about">
-    //                         About me
-    //                     </a>
-    //                 </li>
-    //                 <li className="mx-2">
-    //                     <span>Contact</span>
-    //                 </li>
-    //                 {categories.map((category) => (
-    //                     <li
-    //                         className={`mx-1 ${currentCategory.name === category.name && 'navActive'
-    //                             }`}
-    //                         key={category.name}
-    //                     >
-    //                         <span
-    //                             onClick={() => {
-    //                                 setCurrentCategory(category)
-    //                             }}
-    //                         >
-    //                             {capitalizeFirstLetter(category.name)}
-    //                         </span>
-    //                     </li>
-    //                 ))}
-    //             </ul>
-    //         </nav>
-    //     </header>
-    // );
-
-
+function Navi(props) {
     return (
-
-        <Container>
-            <h1>HELLO</h1>
-            <Button><h1>HELLO</h1></Button>
-        </Container>
-
-
+        
+            <Navbar expand="sm" variant="light" bg="light" className="navBar">
+                <Navbar.Brand href="#">Nick Duran</Navbar.Brand>
+                <Nav>
+                    <Nav.Link href="#home">Home</Nav.Link>
+                    <Nav.Link href="#features">Features</Nav.Link>
+                    <Nav.Link href="#pricing">Pricing</Nav.Link>
+                </Nav>
+            </Navbar>
+        
     );
 }
 
-export default Nav;
+export default Navi;
