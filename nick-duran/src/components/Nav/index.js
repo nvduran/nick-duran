@@ -9,9 +9,9 @@ function Navi(props) {
             <Navbar expand="sm" variant="light" bg="light" className="navBar">
                 <Navbar.Brand href="#">Nick Duran</Navbar.Brand>
                 <Nav>
-                    <Nav.Link href="#home">Home</Nav.Link>
-                    <Nav.Link href="#features">Features</Nav.Link>
-                    <Nav.Link href="#pricing">Pricing</Nav.Link>
+                    <Nav.Link href="#home">Projects</Nav.Link>
+                    <Nav.Link href="#features">About</Nav.Link>
+                    <Nav.Link href="#pricing">Find Me</Nav.Link>
                 </Nav>
             </Navbar>
         
