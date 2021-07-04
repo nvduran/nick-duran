@@ -19,3 +19,10 @@ code {
 .section-header {
   font-size: 2em;
 }
+
+.w-100 {
+  min-height: 200px;
+  
+  max-width: 200%;
+  max-height: 1%;
+}
