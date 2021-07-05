@@ -6,8 +6,8 @@ function Contact(props) {
       <Container>
           <div className="section-header">Contact</div>
         <Row>
-          <Col>1 of 2</Col>
-          <Col>2 of 2</Col>
+          <Col><a href="https://github.com/nvduran">Github</a></Col>
+          <Col><a href="mailto:nvduran@gmail.com">nvduran@gmail.com</a></Col>
         </Row>
       </Container>
     );
