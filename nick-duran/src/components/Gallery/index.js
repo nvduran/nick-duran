@@ -10,10 +10,10 @@ import idir from '../../assets/iCamp/directions.PNG'
 function Gallery(props) {
   return (
 
-    <Container>
+    <Container fluid>
       <div className="section-header">Project Gallery</div>
 
-      <Row>
+      <Row className="gallery-row">
         <Col><Carousel>
           <Carousel.Item>
             <img
@@ -79,11 +79,11 @@ function Gallery(props) {
           </Carousel.Item>
         </Carousel></Col>
       </Row>
-      <Row>
+      {/* <Row>
         <Col>1 of 3</Col>
         <Col>2 of 3</Col>
         <Col>3 of 3</Col>
-      </Row>
+      </Row> */}
     </Container>
   );
 }

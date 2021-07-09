@@ -18,15 +18,39 @@ code {
 
 .section-header {
   font-size: 2em;
+  font-weight: 700;
+  text-decoration: underline;
+  padding-top: 2%;
+  padding-bottom: 2%;
+  color: #2B3A67;
 }
 
+/* GALLERY IMAGES */
 .w-100 {
   min-height: 200px;
-  
+  padding: 5%;
   max-width: 200%;
   max-height: 1%;
 }
 
 .img-fluid {
   max-height: 80%;
+}
+
+.gallery-row {
+  padding-bottom: 10%;
+}
+
+.contact-link {
+  text-decoration: none;
+  color: inherit;
+}
+
+.contact-link:hover {
+  color: #00A878;
+}
+
+.about-section {
+  background-color: #e9e9e9;
+  width: auto;
 }
