@@ -14,7 +14,11 @@ function Gallery(props) {
       <div className="section-header">Project Gallery</div>
 
       <Row className="gallery-row">
-        <Col><Carousel>
+        <Col><Carousel
+          autoPlay={true}
+          interval={3000}
+          controls={false}
+          indicators={false}>
           <Carousel.Item>
             <img
               className="d-block w-100"
@@ -52,8 +56,12 @@ function Gallery(props) {
           </Carousel.Item>
         </Carousel></Col>
 
-      
-        <Col><Carousel>
+
+        <Col><Carousel
+          autoPlay={true}
+          interval={3000}
+          controls={false}
+          indicators={false}>
           <Carousel.Item>
             <img
               className="d-block w-100"
