@@ -11,7 +11,7 @@ function Gallery(props) {
   return (
 
     <Container fluid>
-      <div className="section-header">Project Gallery</div>
+      <div className="section-header" id="gallery">Project Gallery</div>
 
       <Row className="gallery-row">
         <Col><Carousel
