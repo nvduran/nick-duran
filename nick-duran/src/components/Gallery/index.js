@@ -16,7 +16,7 @@ function Gallery(props) {
       <Row className="gallery-row">
         <Col><Carousel
           autoPlay={true}
-          interval={3000}
+          interval={5000}
           controls={false}
           indicators={false}>
           <Carousel.Item>
@@ -59,7 +59,7 @@ function Gallery(props) {
 
         <Col><Carousel
           autoPlay={true}
-          interval={3000}
+          interval={5000}
           controls={false}
           indicators={false}>
           <Carousel.Item>

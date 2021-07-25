@@ -7,6 +7,11 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
+.dark-mode{
+  background-color: black;
+  color: white;
+}
+
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
@@ -17,7 +22,7 @@ code {
 }
 
 .navLink {
-  font-size: 1.2em;
+  font-size: 1.1em;
 }
 
 .navLink:hover {
@@ -72,4 +77,8 @@ code {
 .top-nav {
   width: 100%;
   justify-content: center;
+}
+
+.dmButton {
+  display: hidden;
 }
