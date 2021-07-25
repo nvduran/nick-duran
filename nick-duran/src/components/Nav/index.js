@@ -8,7 +8,7 @@ function Navi(props) {
     const [isDarkMode, setIsDarkMode] = useState(() => false);
     const darkMode = useDarkMode(false);
     return (
-        <Navbar expand="sm" variant="light" bg="light" className="navBar">
+        <Navbar expand="sm" className="navBar">
             {/* <Navbar.Brand href="#">Nick Duran</Navbar.Brand> */}
             <Nav className="top-nav">
                 <Nav.Link href="#gallery"><h3 className="navLink" style={{ paddingRight: '10px' }}>Projects</h3></Nav.Link>

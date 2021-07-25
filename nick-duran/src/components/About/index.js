@@ -5,7 +5,7 @@ import headshot from '../../assets/headshot.jpg'
 function About(props) {
   return (
     <Container fluid className="about-section">
-      <div className="section-header" id="about">About Me</div>
+      <div id="about" style={{fontSize:'3em', padding:'2%'}}>About Me</div>
       <Row>
         <Col><img src={headshot} class="img-fluid" alt="Responsive image" /></Col>
         <Col>
