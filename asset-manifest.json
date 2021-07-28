@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/nick-duran/static/css/main.83f0f9c2.chunk.css",
+    "main.css": "/nick-duran/static/css/main.3b020827.chunk.css",
     "main.js": "/nick-duran/static/js/main.b1cdd10c.chunk.js",
     "main.js.map": "/nick-duran/static/js/main.b1cdd10c.chunk.js.map",
     "runtime-main.js": "/nick-duran/static/js/runtime-main.848b04a0.js",
@@ -12,7 +12,7 @@
     "static/js/3.deaf4be7.chunk.js.map": "/nick-duran/static/js/3.deaf4be7.chunk.js.map",
     "index.html": "/nick-duran/index.html",
     "static/css/2.d45d6843.chunk.css.map": "/nick-duran/static/css/2.d45d6843.chunk.css.map",
-    "static/css/main.83f0f9c2.chunk.css.map": "/nick-duran/static/css/main.83f0f9c2.chunk.css.map",
+    "static/css/main.3b020827.chunk.css.map": "/nick-duran/static/css/main.3b020827.chunk.css.map",
     "static/js/2.312e6cc4.chunk.js.LICENSE.txt": "/nick-duran/static/js/2.312e6cc4.chunk.js.LICENSE.txt",
     "static/media/chat.3e3540dd.PNG": "/nick-duran/static/media/chat.3e3540dd.PNG",
     "static/media/directions.a92508d5.PNG": "/nick-duran/static/media/directions.a92508d5.PNG",
@@ -25,7 +25,7 @@
     "static/js/runtime-main.848b04a0.js",
     "static/css/2.d45d6843.chunk.css",
     "static/js/2.312e6cc4.chunk.js",
-    "static/css/main.83f0f9c2.chunk.css",
+    "static/css/main.3b020827.chunk.css",
     "static/js/main.b1cdd10c.chunk.js"
   ]
 }
