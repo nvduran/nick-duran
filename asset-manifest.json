@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/nick-duran/static/css/main.b79a28d9.chunk.css",
-    "main.js": "/nick-duran/static/js/main.b1cdd10c.chunk.js",
-    "main.js.map": "/nick-duran/static/js/main.b1cdd10c.chunk.js.map",
+    "main.js": "/nick-duran/static/js/main.565357ef.chunk.js",
+    "main.js.map": "/nick-duran/static/js/main.565357ef.chunk.js.map",
     "runtime-main.js": "/nick-duran/static/js/runtime-main.848b04a0.js",
     "runtime-main.js.map": "/nick-duran/static/js/runtime-main.848b04a0.js.map",
     "static/css/2.d45d6843.chunk.css": "/nick-duran/static/css/2.d45d6843.chunk.css",
@@ -18,7 +18,7 @@
     "static/media/directions.a92508d5.PNG": "/nick-duran/static/media/directions.a92508d5.PNG",
     "static/media/headshot.b6578873.jpg": "/nick-duran/static/media/headshot.b6578873.jpg",
     "static/media/home.06100aac.PNG": "/nick-duran/static/media/home.06100aac.PNG",
-    "static/media/home.44b7023c.PNG": "/nick-duran/static/media/home.44b7023c.PNG",
+    "static/media/newhome.5b84bd82.PNG": "/nick-duran/static/media/newhome.5b84bd82.PNG",
     "static/media/zing1.2586dbd2.PNG": "/nick-duran/static/media/zing1.2586dbd2.PNG"
   },
   "entrypoints": [
@@ -26,6 +26,6 @@
     "static/css/2.d45d6843.chunk.css",
     "static/js/2.312e6cc4.chunk.js",
     "static/css/main.b79a28d9.chunk.css",
-    "static/js/main.b1cdd10c.chunk.js"
+    "static/js/main.565357ef.chunk.js"
   ]
 }
