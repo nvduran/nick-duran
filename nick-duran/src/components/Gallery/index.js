@@ -4,7 +4,7 @@ import { capitalizeFirstLetter } from '../../utils/helpers.js';
 import zing1 from '../../assets/zing/zing1.PNG'
 import zhome from '../../assets/zing/home.PNG'
 import zchat from '../../assets/zing/chat.PNG'
-import ihome from '../../assets/iCamp/home.PNG'
+import ihome from '../../assets/iCamp/newhome.PNG'
 import idir from '../../assets/iCamp/directions.PNG'
 
 function Gallery(props) {
