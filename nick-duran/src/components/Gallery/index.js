@@ -11,7 +11,7 @@ function Gallery(props) {
   return (
 
     <Container fluid>
-      <div style={{fontSize:'3em', color: '#56649e'}} id="gallery">Project Gallery</div>
+      <div style={{fontSize:'3em', color: '#56649e', padding:'2%'}} id="gallery">Project Gallery</div>
 
       <Row className="gallery-row">
         <Col><Carousel
