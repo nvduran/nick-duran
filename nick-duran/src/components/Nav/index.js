@@ -14,11 +14,13 @@ function Navi(props) {
                 <Nav.Link href="#gallery"><h3 className="navLink" style={{ paddingRight: '10px' }}>Projects</h3></Nav.Link>
                 <Nav.Link href="#about"><h3 className="navLink" style={{ paddingRight: '10px' }}>About</h3></Nav.Link>
                 <Nav.Link href="#contact"><h3 className="navLink" style={{ paddingRight: '10px' }}>Contact</h3></Nav.Link>
+                <div className="darkSwitch">
                 <DarkModeToggle
                     onChange={darkMode.toggle}
                     checked={darkMode.value}
                     size={50}
                 />
+                </div>
             </Nav>
         </Navbar>
 

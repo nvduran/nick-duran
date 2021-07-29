@@ -8,7 +8,7 @@ body {
 }
 
 body.dark-mode{
-  background-color: rgb(119, 119, 119);
+  background-color: rgb(139, 139, 139);
   color: white;
 }
 
@@ -80,8 +80,15 @@ code {
 .top-nav {
   width: 100%;
   justify-content: center;
+  margin-top: 0px;
+  padding-top: 0px;
 }
 
 .dmButton {
   display: hidden;
+}
+
+.darkSwitch{
+  padding-top: 5px;
+  margin-left: 10px;
 }
