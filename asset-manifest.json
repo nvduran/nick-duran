@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/nick-duran/static/css/main.c087a03f.chunk.css",
-    "main.js": "/nick-duran/static/js/main.4ba2bd88.chunk.js",
-    "main.js.map": "/nick-duran/static/js/main.4ba2bd88.chunk.js.map",
+    "main.js": "/nick-duran/static/js/main.d97372d3.chunk.js",
+    "main.js.map": "/nick-duran/static/js/main.d97372d3.chunk.js.map",
     "runtime-main.js": "/nick-duran/static/js/runtime-main.848b04a0.js",
     "runtime-main.js.map": "/nick-duran/static/js/runtime-main.848b04a0.js.map",
     "static/css/2.d45d6843.chunk.css": "/nick-duran/static/css/2.d45d6843.chunk.css",
@@ -26,6 +26,6 @@
     "static/css/2.d45d6843.chunk.css",
     "static/js/2.312e6cc4.chunk.js",
     "static/css/main.c087a03f.chunk.css",
-    "static/js/main.4ba2bd88.chunk.js"
+    "static/js/main.d97372d3.chunk.js"
   ]
 }
